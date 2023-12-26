@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img src="https://capsule-render.vercel.app/api?type=waving&color=dfbcf7&height=200&section=header&text=mobi-2th-begginer-2&fontSize=40&fontColor=FFFFFF" />
 
 # 👥 Member
@@ -208,3 +209,6 @@ css는 파면 팔 수록 시간 도둑인 것 같아요..) 그리고 예전에 �
 그리고 props를 사용한 공유 컴포넌트를 만드는 과정에서, theme 외의 스타일 코드를 어떻게 하면 재사용성을 줄지 생각해봤는데, 방법을 잘 몰라 쉽지 않았습니다.  컴포넌트마다 다른 width, height는 힘들 것 같고, font-size같은 경우는 재사용이 가능할 것 같다는 생각이 들었습니다. 
 <br/>
 공부하는 과정에서 storybook의 실제 기업 사용 사례를 보는게 도움이 많이 되었는데, 다른 분들에게도 이를 추천하고 싶습니다! 
+=======
+# ui-inventory
+>>>>>>> 1f326745b2b3de679910e7e770c44c2a490c86be
